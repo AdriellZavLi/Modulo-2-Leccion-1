@@ -1,0 +1,35 @@
+h1{
+    color: royalblue;
+}
+.p-1{
+    color: red;
+}
+#cualquier-nombre{
+    color: orange;
+}
+.product-card{
+    background-color: white;
+    width: 500px;
+    margin:auto;
+    text-align:justify;
+}
+.container-std{
+    background-color: white;
+    width: 500px;
+    margin:auto;
+    text-align: center;
+}
+.product-header{
+    color: green;
+    text-align: center;
+}
+.link-text{
+    color: purple;
+    text-decoration: underline;
+}
+.product-text{
+    color: red;
+}
+.product-image{
+    width: 500px;
+}
